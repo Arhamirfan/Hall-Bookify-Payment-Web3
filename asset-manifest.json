@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Hall-Bookify-Payment-Web3/static/css/main.d3c0d556.css",
-    "main.js": "/Hall-Bookify-Payment-Web3/static/js/main.1125ee99.js",
+    "main.js": "/Hall-Bookify-Payment-Web3/static/js/main.4810fd6b.js",
     "static/js/787.e875aca6.chunk.js": "/Hall-Bookify-Payment-Web3/static/js/787.e875aca6.chunk.js",
     "index.html": "/Hall-Bookify-Payment-Web3/index.html",
     "main.d3c0d556.css.map": "/Hall-Bookify-Payment-Web3/static/css/main.d3c0d556.css.map",
-    "main.1125ee99.js.map": "/Hall-Bookify-Payment-Web3/static/js/main.1125ee99.js.map",
+    "main.4810fd6b.js.map": "/Hall-Bookify-Payment-Web3/static/js/main.4810fd6b.js.map",
     "787.e875aca6.chunk.js.map": "/Hall-Bookify-Payment-Web3/static/js/787.e875aca6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3c0d556.css",
-    "static/js/main.1125ee99.js"
+    "static/js/main.4810fd6b.js"
   ]
 }
